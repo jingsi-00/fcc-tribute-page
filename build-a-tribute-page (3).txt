@@ -1,0 +1,492 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en" >
+  <head>
+    <title>Pablo Picasso</title>
+  <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <link rel="stylesheet" type="text/css" href="style/font-awesome-4.7.0/css/font.css">
+       <link rel="stylesheet" href="styles.css" />
+       </head>
+       <body>
+         <main id="main">
+           <section id="tribute-info">
+          <div class="titleimage">  
+     <figure id="img-div">
+      <img id="image" src="https://www.singulart.com/blog/wp-content/uploads/2023/07/image-1140x509.png" alt="Guernica, 1937"> 
+        <figcaption id="img-caption">Guernica, 1937</figcaption>
+     </figure>
+      <div class="title-position"> 
+<h1 id="title" class="fade">Pablo Picasso</h1>
+      </div>
+  </div>
+<h2 id="subtitle">"Art is a lie that makes us realize truth."</h2>
+
+  <div class="portrait">
+<img src="https://cdn.britannica.com/63/59963-050-C03F29B9/Pablo-Picasso.jpg" alt="Portrait" class="center">
+    <div class="quote-position"> 
+      <p id="quote">"Everything you can imagine is real."</p></div>
+    </div>
+ 
+   <h3 class="introduction">Here are his Biography</h3>
+        
+        <section class="intro">
+        	<div id="first">
+                <p id="first1">Pablo Ruiz Picasso(25 October 1881 – 8 April 1973) was a Spanish painter, sculptor, printmaker, ceramicist, and theatre designer who spent most of his adult life in France. One of the most influential artists of the 20th century, he is known for co-founding the Cubist movement, the invention of constructed sculpture,the co-invention of collage, and for the wide variety of styles that he helped develop and explore. Among his most famous works are the proto-Cubist Les Demoiselles d'Avignon (1907) and the anti-war painting Guernica (1937), a dramatic portrayal of the bombing of Guernica by German and Italian air forces during the Spanish Civil War.
+
+Picasso demonstrated extraordinary artistic talent in his early years, painting in a naturalistic manner through his childhood and adolescence.  </p>
+            </div>
+            
+            <div id="second">
+                <p id="second2">Picasso's output, especially in his early career, is often periodized. While the names of many of his later periods are debated, the most commonly accepted periods in his work are the Blue Period (1901–1904), the Rose Period (1904–1906), the African-influenced Period (1907–1909), Analytic Cubism (1909–1912), and Synthetic Cubism (1912–1919), also referred to as the Crystal period. Much of Picasso's work of the late 1910s and early 1920s is in a neoclassical style, and his work in the mid-1920s often has characteristics of Surrealism. His later work often combines elements of his earlier styles.
+
+Exceptionally prolific throughout the course of his long life, Picasso achieved universal renown and immense fortune for his revolutionary artistic accomplishments, and became one of the best-known figures in 20th-century art.</p>
+            </div>
+        </section>
+        
+        <h4 class="and">And...</h4>
+        <section class="career">
+            <h5><br>Career</h5>
+            
+        </section>
+
+        <section class="timeline">
+           <div class="timeline-item left">
+            <div class="date">Before 1900</div>   <div class="content"><p>The academic realism apparent in the works of the mid-1890s is well displayed in The First Communion (1896), a large composition that depicts his sister, Lola. In the same year, at the age of 14, he painted Portrait of Aunt Pepa, a vigorous and dramatic portrait that Juan-Eduardo Cirlot has called "without a doubt one of the greatest in the whole history of Spanish painting." </p></div></div>
+            <div class="timeline-item right"><div class="date"> 1901–1904</div>  <div class="content"><p>Picasso's Blue Period (1901–1904), characterized by sombre paintings rendered in shades of blue and blue-green only occasionally warmed by other colours, began either in Spain in early 1901 or in Paris in the second half of the year.</p></div></div>
+             <div class="timeline-item left">
+            <div class="date"> 1904–1906</div> <div class="content"><p>The Rose Period (1904–1906)is characterized by a lighter tone and style utilizing orange and pink colours and featuring many circus people, acrobats and harlequins known in France as saltimbanques. The harlequin, a comedic character usually depicted in checkered patterned clothing, became a personal symbol for Picasso.</p></div></div>
+            <div class="timeline-item right"><div class="date"> 1907–1909</div> <div class="content"><p>Picasso's African-influenced Period (1907–1909) begins with his painting Les Demoiselles d'Avignon. The three figures on the left were inspired by Iberian sculpture, but he repainted the faces of the two figures on the right after being powerfully impressed by African artefacts he saw in June 1907 in the ethnographic museum at Palais du Trocadéro. </p></div></div>    
+
+<div class="timeline-item left">
+            <div class="date"> 1912–1919</div> <div class="content"><p>Synthetic cubism (1912–1919) was a further development of the genre of cubism, in which cut paper fragments – often wallpaper or portions of newspaper pages – were pasted into compositions, marking the first use of collage in fine art. </p></div></div>   
+
+<div class="timeline-item right"><div class="date"> 1919–1929</div><div class="content"><p> In the period following the upheaval of World War I, Picasso produced work in a neoclassical style. This "return to order" is evident in the work of many European artists in the 1920s, including André Derain, Giorgio de Chirico, Gino Severini, Jean Metzinger, the artists of the New Objectivity movement and of the Novecento Italiano movement. </p></div></div>   
+
+<div class="timeline-item left"><div class="date"> 1930–1939</div> <div class="content"><p>During the 1930s, the minotaur replaced the harlequin as a common motif in his work. His use of the minotaur came partly from his contact with the surrealists, who often used it as their symbol, and it appears in Picasso's Guernica. The minotaur and Picasso's mistress Marie-Thérèse Walter are heavily featured in his celebrated Vollard Suite of etchings. </p></div></div>   
+
+<div class="timeline-item right"><div class="date"> 1939–1949</div><div class="content"><p> Retreating to his studio, he continued to paint, producing works such as the Still Life with Guitar (1942) and The Charnel House (1944–48).Around this time, Picasso wrote poetry as an alternative outlet. Between 1935 and 1959 he wrote more than 300 poems. </p></div></div>  
+
+<div class="timeline-item left"><div class="date"> 1949–1973</div> <div class="content"><p>Picasso was one of 250 sculptors who exhibited in the 3rd Sculpture International held at the Philadelphia Museum of Art in mid-1949. In the 1950s, Picasso's style changed once again, as he took to producing reinterpretations of the art of the great masters. He made a series of works based on Velázquez's painting of Las Meninas. He also based paintings on works by Goya, Poussin, Manet, Courbet and Delacroix. </p></div></div>    
+            
+            </div> 
+        </section>
+            
+   
+<h6 class="categories"> Selected Works </h6> 
+    
+<div class="row"> 
+  <div class="column">
+    <div class="gallery"><img src="https://uploads2.wikiart.org/images/pablo-picasso/portrait-of-aunt-pepa-1896.jpg!Large.jpg" style="width:100%">
+   <div class="overlay">Portrait of aunt Pepa, 1896</div></div>
+   <div class="gallery"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Picasso_la_vie.jpg/282px-Picasso_la_vie.jpg" style="width:100%">
+        <div class="overlay">La Vie, 1903</div></div>
+    <div class="gallery"><img src="https://upload.wikimedia.org/wikipedia/en/b/bc/Old_guitarist_chicago.jpg" style="width:100%"><div class="overlay">The Old Guitarist, 1903</div></div>
+    <div class="gallery"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Pablo_Picasso%2C_1905%2C_Au_Lapin_Agile_%28At_the_Lapin_Agile%29%2C_oil_on_canvas%2C_99.1_x_100.3_cm%2C_Metropolitan_Museum_of_Art.jpg/440px-Pablo_Picasso%2C_1905%2C_Au_Lapin_Agile_%28At_the_Lapin_Agile%29%2C_oil_on_canvas%2C_99.1_x_100.3_cm%2C_Metropolitan_Museum_of_Art.jpg" style="width:100%"><div class="overlay">Au Lapin Agile, 1905</div></div>
+    <div class="gallery"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/GertrudeStein.JPG/440px-GertrudeStein.JPG" style="width:100%"><div class="overlay">Portrait of Gertrude Stein, 1906</div></div>
+     <div class="gallery"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Les_Demoiselles_d%27Avignon.jpg/440px-Les_Demoiselles_d%27Avignon.jpg" style="width:100%"><div class="overlay">Les Demoiselles d'Avignon, 1907</div></div>
+    <div class="gallery"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Pablo_Picasso%2C_1910%2C_Woman_with_Mustard_Pot_%28La_Femme_au_pot_de_moutarde%29%2C_oil_on_canvas%2C_73_x_60_cm%2C_Gemeentemuseum%2C_The_Hague._Exhibited_at_the_Armory_Show%2C_New_York%2C_Chicago%2C_Boston_1913.jpg/297px-thumbnail.jpg" style="width:100%"><div class="overlay">Woman with Mustard Pot, 1910</div></div>
+  </div>
+  <div class="column"> 
+    <div class="gallery"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Picasso_Portrait_of_Daniel-Henry_Kahnweiler_1910.jpg/258px-Picasso_Portrait_of_Daniel-Henry_Kahnweiler_1910.jpg" style="width:100%"><div class="overlay">Portrait of Daniel-Henry Kahnweiler, 1910</div></div>
+     <div class="gallery"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Pablo_Picasso%2C_1913-14%2C_Woman_in_a_Chemise_in_an_Armchair%2C_oil_on_canvas%2C_149.9_x_99.4_cm%2C_Metropolitan_Museum_of_Art.jpg/239px-Pablo_Picasso%2C_1913-14%2C_Woman_in_a_Chemise_in_an_Armchair%2C_oil_on_canvas%2C_149.9_x_99.4_cm%2C_Metropolitan_Museum_of_Art.jpg" style="width:100%"><div class="overlay">Morning Sun, 1952</div></div>  
+     <div class="gallery"><img src="https://i.postimg.cc/3R3CRHnP/New-York-Office-1962.jpg" style="width:100%"><div class="overlay">Femme assise dans un fauteuil (Eva), 1913</div></div> 
+     <div class="gallery"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Pablo_Picasso%2C_1918%2C_Pierrot%2C_oil_on_canvas%2C_92.7_x_73_cm%2C_Museum_of_Modern_Art.jpg/281px-Pablo_Picasso%2C_1918%2C_Pierrot%2C_oil_on_canvas%2C_92.7_x_73_cm%2C_Museum_of_Modern_Art.jpg" style="width:100%"><div class="overlay">Pierrot, 1918</div></div>  
+     <div class="gallery"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Pablo_Picasso%2C_1921%2C_Nu_assis_s%27essuyant_le_pied_%28Seated_Nude_Drying_her_Foot%29%2C_pastel%2C_66_x_50.8_cm%2C_Berggruen_Museum.jpg/340px-Pablo_Picasso%2C_1921%2C_Nu_assis_s%27essuyant_le_pied_%28Seated_Nude_Drying_her_Foot%29%2C_pastel%2C_66_x_50.8_cm%2C_Berggruen_Museum.jpg" style="width:100%"><div class="overlay">Nu assis s'essuyant le pied, 1921</div></div>
+     <div class="gallery"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Picasso_three_musicians_moma_2006.jpg/440px-Picasso_three_musicians_moma_2006.jpg" style="width:100%"><div class="overlay">Three Musicians, 1921</div></div>
+      <div class="gallery"><img src="https://uploads4.wikiart.org/images/pablo-picasso/girl-in-front-of-mirror-1932.jpg" style="width:100%"><div class="overlay">Girl before a Mirror, 1932</div></div>
+  </div>
+    </div>  
+      </div>  
+<hr>
+      
+    <p id="link">To learn more about Pablo Picasso, visit his <a id="tribute-link" href="https://en.wikipedia.org/wiki/Pablo_Picasso" target="_blank">Wikipedia Page</a>
+      </p>
+  </section>
+</main>
+
+ <footer>
+
+            <section class="copyright">
+            	<h7>Copyright Evonne Ng Chen See 2024. All rights reserved</h7>
+            </section> 
+        </footer>
+
+         </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+#image {
+  width: 100%; 
+  display: block;
+  position: relative;
+  max-width: 100%;
+}
+
+.titleimage {
+  position: relative;
+  text-align: left;
+  display: block;
+}
+
+.title-position {
+  position: absolute;
+  top: 70%;
+  left: 1%;
+}
+
+#title {
+    color: black;
+    font-size: 8vw;
+  }
+  
+.fade {
+  animation: fade 3s;
+}
+
+@keyframes fade {
+  10% {opacity: 0}
+  100% {opacity: 1}
+}
+
+#img-caption {
+  text-align: right;
+  font-family: 'Playfair Display', serif;
+  font-size: 2.5vw;
+}
+
+body {
+  background-color: #FFFFFF;
+  margin: 0;
+}
+
+#img-div {
+  margin: 0;
+  width: 100%;
+  height: 90%;
+}
+
+#subtitle {
+    color: gray;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 5vw;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#quote {
+    font-size: 3.5vw;
+    font-family: 'Playfair Display', serif;
+}
+
+.portrait {
+  position: relative;
+  text-align: center;
+  padding: 0px 20px 0px 20px;
+  margin-left:300px;
+  width: 50%;
+  height:50%;
+}
+
+.quote-position {
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  right: 10%;
+  color: white;
+}
+ 
+body {
+  background-color: #FFFFFF;
+  margin: 0;
+}
+
+#img-div {
+  margin: 0;
+  width: 100%;
+  height: 90%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+*{
+  box-sizing: border-box;
+}
+   
+.row {
+  display: -ms-flexbox; 
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+.column {
+  -ms-flex: 50%; 
+  flex: 50%;
+  max-width: 50%;
+  padding: 0 4px 50px;
+}
+
+.gallery {
+  position: relative;
+  margin-top: 8px;
+  width: 100%;
+  opacity: 1;
+  -webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.overlay {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  background: gray;
+  width: 100%;
+  transition: .3s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  font-family: Spartan;
+  padding: 16px;
+  margin-bottom: 4px;
+  text-align: center;
+}
+.gallery:hover {
+  opacity:0.8;
+}
+
+.gallery:hover .overlay {
+  opacity: 1;
+}
+
+#link {
+  font-size: 20px;
+  font-family: 'Montserrat Alternates', sans-serif;
+  text-align: center;
+}
+
+#link a {
+  color:black;
+}
+
+.introduction {
+	font-size:50px;
+	text-align:center;
+	padding-top:20px;
+	padding-bottom:20px;
+	font-family: 'Montserrat Alternates', sans-serif;
+	color:black;
+	font-style:italic;
+}
+
+#first {
+	float:left;
+	width:45%;	
+}
+
+#second {
+	float:right;
+	width:45%;	
+}
+
+#first1 {
+	text-align:justify;
+	padding-left:70px;
+	padding-right:55px;
+	font-size:25px;
+	font-family: 'Poiret One', cursive;
+	line-height:20px;
+	
+	
+}
+
+#second2 {
+	text-align:justify;
+	padding-right:80px;	
+	padding-left:20px;
+	font-size:25px;
+	font-family: 'Poiret One', cursive;
+	line-height:20px;
+	
+}
+
+.and {
+	font-size:35px;
+	text-align:center;
+	font-family: 'Montserrat Alternates', sans-serif;
+	color:black;
+	font-style:italic;
+        margin-top:20%;
+       
+}	
+        
+.career h5 {
+	font-size:50px;		
+	font-family: 'Playfair Display', serif;
+	font-style:italic;
+	font-weight:700;
+	color:#A9A9A9;
+	line-height:65px;
+        text-align:center;
+        margin-bottom:5%;
+}
+
+.categories {
+  font-size:35px;
+	text-align:center;
+	font-family: 'Montserrat Alternates', sans-serif;
+	color:black;
+	font-style:italic;
+}
+
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 60px 0;
+        }
+
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 4px;
+  background: linear-gradient(to bottom, #666, #999);
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+        }
+
+.timeline-item {
+  padding: 20px 40px;
+  position: relative;
+  width: 50%;
+  opacity: 0;
+  animation: fadeIn 1s forwards;
+        }
+
+.left { 
+  left: 0;
+  animation-delay: 0.3s;
+        }
+
+.right { 
+  right: -50%;
+  animation-delay: 0.6s;
+        }
+
+.content {
+  padding: 25px;
+  background: #2d2d2d;
+  border: 2px solid #4d4d4d;
+  position: relative;
+  transition: 0.3s all ease;
+  font-family: 'Poiret One', cursive;
+  color:white;
+        }
+
+.content:hover {
+  background: #333;
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0,0,0,0.3);
+        }
+
+.content::after {
+  content: '';
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  right: -36px;
+  background: #666;
+  border: 3px solid #1a1a1a;
+  top: 25px;
+  z-index: 1;
+        }
+
+.right::after {
+  left: -36px;
+  right: auto;
+        }
+
+.date {
+  position: absolute;
+  top: 20px;
+  font-size: 1.1em;
+  font-family: 'Poiret One', cursive;
+  font-weight: bold;
+  color: #fff;
+  padding: 6px 15px;
+  background: #4d4d4d;
+        }
+
+.left .date { right: -140px; }
+
+.right .date { left: -140px; }
+
+.content p { 
+  line-height: 1.6; 
+  font-size: 1.1em;
+}
+
+@keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+ @media (max-width: 768px) {
+            .timeline::after { left: 30px; }
+            
+            .timeline-item {
+                width: 100%;
+                padding-left: 70px;
+                padding-right: 25px;
+                animation-delay: 0s !important;
+            }
+
+            .right { left: 0; }
+
+            .left::after, .right::after { 
+                left: 18px; 
+                right: auto;
+            }
+
+            .left .date, .right .date {
+                left: 15px;
+                right: auto;
+            }
+        }
+
+.copyright {
+	background-color:black;	
+	height: 30px;
+	width:1600px;
+
+	
+}
+.copyright h7 {
+	background-color:black;	
+	color:white;
+  font-size: 15px;
+  font-family: 'Montserrat Alternates', sans-serif;
+  text-align: center;
+  margin-left:500px;
+}
+
+** end of undefined **
+
